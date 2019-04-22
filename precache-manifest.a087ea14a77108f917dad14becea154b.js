@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/Weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/Weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "164b5c563a0cb6fdf067",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/Weather-app/static/js/2.aca40c3c.chunk.js"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/Weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/Weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "164b5c563a0cb6fdf067",
